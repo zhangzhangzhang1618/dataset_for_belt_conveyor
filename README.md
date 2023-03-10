@@ -23,3 +23,7 @@ The dataset includes three folders：
 You can use it to perform integrated detection or any other single detection, such as only doing detection task or only segmentation task!
 
  Also you can re-lable it as it has many other target shown in the image, such as roller ans so on.
+
+
+========================================2023.3.10
+We have uploaded a video for the convenience of researchers, and you can carry out corresponding research work based on this dynamic video according to your own ideas. If you need more help, please contact us in time.
