@@ -30,3 +30,6 @@ You can use it to perform integrated detection or any other single detection, su
 We have uploaded a video for the convenience of researchers, 
 and you can carry out corresponding research work based on this dynamic video according to your own ideas.
 If you need more help, please contact us in time.
+
+AND if you have any questions about "A New Paradigm for Intelligent Status Detection of Belt Conveyors Based on Deep Learning", plz contact us in time！
+
