@@ -33,3 +33,8 @@ If you need more help, please contact us in time.
 
 AND if you have any questions about "A New Paradigm for Intelligent Status Detection of Belt Conveyors Based on Deep Learning", plz contact us in time！
 
+
+If you use this dataset or code, please consider cite following papers:
+Zhang M, Jiang K, Cao Y, et al. A New Paradigm for Intelligent Status Detection of Belt Conveyors Based on Deep Learning[J]. Measurement, 2023: 112735.
+
+
