@@ -1,7 +1,7 @@
 # dataset_for_belt_conveyor
 This is the dataset suitable for the monitoring of belt conveyor running status.
 
-It comes entirely from surveillance video of the port of Qingdao, China.
+It comes entirely from surveillance video of the port.
 
 The dataset includes three folders：
 
