@@ -38,6 +38,8 @@ If you use this dataset or code, please consider cite following papers:
 
 
 [1] Zhang M, Jiang K, Cao Y, et al. A New Paradigm for Intelligent Status Detection of Belt Conveyors Based on Deep Learning[J]. Measurement, 2023: 112735. https://doi.org/10.1016/j.measurement.2023.112735
+
+
 [2] Zhang M, Jiang K, Cao Y, et al. A deep learning-based method for deviation status detection in intelligent conveyor belt system[J]. Journal of Cleaner Production, 2022, 363: 132575. https://doi.org/10.1016/j.jclepro.2022.132575
 
 
